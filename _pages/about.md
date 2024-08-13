@@ -18,7 +18,7 @@ profile:
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am an sophomore at Colgate University studying Applied Mathematics and Physics. I am interested in studying applications of mathematics in finance. I have a strong background in computer science and computational methods used in solving or simulating complex systems.
+I am a sophomore at Colgate University studying Applied Mathematics and Physics. I am interested in studying applications of mathematics in finance. I have a strong background in computer science and computational methods used in solving or simulating complex systems.
 
 I was an intern in the Corporate Treasury group at Pfizer in the summer of 2024, where I learned about the financial markets through internal and external meetings, weekly teaching sessions, and working closely with team members on various projects.
 
