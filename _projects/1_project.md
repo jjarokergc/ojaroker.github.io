@@ -2,7 +2,7 @@
 layout: page
 title:  Darts Simulation
 description: Simulated trajectory of a dart, built with X3D graphics, MATLAB Simulink, & R. Created March 10, 2024.
-img: assets/img/dartsProj
+img: assets/img/dartsProj/img/dartErrorContour.jpg
 importance: 1
 category: work
 related_publications: true
@@ -81,7 +81,11 @@ Finally, $$x$$, $$y$$, and $$z$$, all parameterized with time, are sent to the V
 ![simulink](https://github.com/ojaroker/Darts/assets/105570791/ba7398f7-021e-4138-9531-14135bc1b098)
 Here is a video of the animation where the computer aims at the Triple 20 bed (the red bed directly above the center of the board):
 
-<video src='https://github.com/ojaroker/Darts/assets/105570791/54e6b676-b363-45a4-b488-4b63c194a37f' width=180></video>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/dartsProj/img/dartVideo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 
 <h2> Folder Structure </h2>
 
