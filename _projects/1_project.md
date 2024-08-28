@@ -2,7 +2,7 @@
 layout: page
 title:  Darts Simulation
 description: Simulated trajectory of a dart, built with X3D graphics, MATLAB Simulink, & R. Created March 10, 2024.
-img: assets/img/dartsProj/img/dartErrorContour.jpg
+img: assets/img/dartsProj/dartErrorContour.jpg
 importance: 1
 category: work
 related_publications: true
@@ -17,7 +17,7 @@ This project is an extension of a Dartbot program written in $$\texttt{R}$$ for 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dartsProj/img/projFlow.drawio.svg" title="Project Flow Diagram" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dartsProj/projFlow.drawio.svg" title="Project Flow Diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ The $$\texttt{simulateThrow(r,theta,difficulty)}$$ function adds the error to $$
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dartsProj/img/dartErrorContour.jpg" title="Dart Contour Map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dartsProj/dartErrorContour.jpg" title="Dart Contour Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -83,7 +83,7 @@ Here is a video of the animation where the computer aims at the Triple 20 bed (t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/dartsProj/img/dartVideo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/dartsProj/dartVideo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 
