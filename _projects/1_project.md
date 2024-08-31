@@ -103,7 +103,7 @@ Darts/
 
 <h2> Dependencies </h2>
 
-To run this project, $$\texttt{MATLAB}$$ and $$\texttt{R}$$ must be installed. The $$\texttt{MATLAB}$$ license must include access to Simulink and 3D Animation and these products must also be installed. The files must be organized according to the folder structure diagram above and $$\texttt{R}$$ must have write permissions. Find project files at [GitHub]{https://github.com/ojaroker/Darts}.
+To run this project, $$\texttt{MATLAB}$$ and $$\texttt{R}$$ must be installed. The $$\texttt{MATLAB}$$ license must include access to Simulink and 3D Animation and these products must also be installed. The files must be organized according to the folder structure diagram above and $$\texttt{R}$$ must have write permissions. Find project files at [GitHub](https://github.com/ojaroker/Darts).
 
 
 <h2> Acknowledgements </h2>
