@@ -6,5 +6,6 @@ img: assets/newtonCannon/NewtonWorld.png
 importance: 1
 category: work
 related_publications: true
+permalink: /assets/newtonCannon/NewtonCannon.pdf
 ---
 
