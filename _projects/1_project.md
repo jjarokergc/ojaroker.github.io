@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Darts Simulation
-description: Simulated trajectory of a dart, built with X3D graphics, MATLAB Simulink, & R. Created March 10, 2024. Find project files at [GitHub]{https://github.com/ojaroker/Darts}.
+description: Simulated trajectory of a dart, built with X3D graphics, MATLAB Simulink, & R. Created March 10, 2024. 
 img: assets/img/dartsProj/dartErrorContour.jpg
 importance: 1
 category: work
@@ -103,7 +103,7 @@ Darts/
 
 <h2> Dependencies </h2>
 
-To run this project, $$\texttt{MATLAB}$$ and $$\texttt{R}$$ must be installed. The $$\texttt{MATLAB}$$ license must include access to Simulink and 3D Animation and these products must also be installed. The files must be organized according to the folder structure diagram above and $$\texttt{R}$$ must have write permissions.
+To run this project, $$\texttt{MATLAB}$$ and $$\texttt{R}$$ must be installed. The $$\texttt{MATLAB}$$ license must include access to Simulink and 3D Animation and these products must also be installed. The files must be organized according to the folder structure diagram above and $$\texttt{R}$$ must have write permissions. Find project files at [GitHub]{https://github.com/ojaroker/Darts}.
 
 
 <h2> Acknowledgements </h2>
