@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Darts Simulation
-description: Simulated trajectory of a dart, built with X3D graphics, MATLAB Simulink, & R. Created March 10, 2024.
+description: Simulated trajectory of a dart, built with X3D graphics, MATLAB Simulink, & R. Created March 10, 2024. Find project files at [GitHub]{https://github.com/ojaroker/Darts}.
 img: assets/img/dartsProj/dartErrorContour.jpg
 importance: 1
 category: work
