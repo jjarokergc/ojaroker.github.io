@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Newton's Cannon
-description: A simulation of Newton's Cannon thought experiment, deriving equations of motion from Hamilton's Equations. Uses Simulink and MATLAB.
+title: Newton Cannon
+description: A simulation of the Newton Cannon thought experiment
 img: assets/img/newtonCannon/NewtonWorld.jpg
 importance: 1
 category: work
