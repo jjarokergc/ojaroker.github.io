@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Newton's Cannon
-description: des #A simulation of Newton's Cannon thought experiment, deriving equations of motion from Hamilton's Equations. Simulink used to solve the four first-order diff. eqs. and MATLAB script used to animate trajectory of the projectile.
-img: assets/img/newtonCannon/NewtonWorld.png
+title: project 7
+description: with background image
+img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: true
-#permalink: /assets/pdf/NewtonCannon.pdf
 ---
 
 Every project has a beautiful feature showcase page.
