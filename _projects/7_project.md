@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newtons Cannon
+title: Newton\'s Cannon
 description: A simulation of the Newton Cannon thought experiment
 img: assets/img/newtonCannon/NewtonWorld.jpg
 importance: 1
