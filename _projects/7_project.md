@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Newton's Cannon
+description: A simulation of Newton's Cannon thought experiment, deriving equations of motion from Hamilton's Equations. Simulink and MATLAB script used to calculate and animate trajectory of the projectile.
 img: assets/img/newtonCannon/NewtonWorld.jpg
 importance: 1
 category: work
